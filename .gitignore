@@ -14,3 +14,13 @@ secrets*
 # Local research assets and generated graphs
 /LearnAI-Research/
 graphify-out/
+
+# Local working folders at the checkout root
+/diagrams/
+/graphify-guide/
+/graphify-learnai/
+/methodology-drafts/
+/papers/
+/planning/
+/presentations/
+/professor-feedback/

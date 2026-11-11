@@ -1,29 +1,18 @@
 # LearnAI
 
-A graduation-project prototype studying whether persistent course context and relevant Egyptian academic resources improve AI study assistance for engineering students.
+LearnAI is a graduation-project research workspace. The newer design explores turning lesson PDFs into playable educational missions in a shared 3D browser level. The earlier proposal studied persistent course context and Egyptian academic resource retrieval for engineering students. The [historical proposal](docs/history/course-context-assistant.md) preserves the original research question, scope, and evaluation plan.
 
-## Research question
-Does persistent course context plus local academic resource retrieval make AI support more relevant to a student's actual course?
+## Start here
 
-## Core prototype
-- Course workspaces with persistent context
-- Private student file uploads
-- Small curated Egyptian academic resource collection
-- Retrieval followed by source-grounded explanations and citations
-- Resource recommendations and provenance metadata
-- Controlled evaluation
+- [Project status](PROJECT_STATUS.md) records what exists, what the newer design proposes, and what still needs a decision.
+- [Research workflow](docs/research/README.md) explains how to record sources, presentation claims, and experiment notes.
+- [Conversation summaries](docs/research/conversations/README.md) records selected takeaways from material the contributor could actually review.
+- [Agent instructions](AGENTS.md) gives Codex the starting files and review rules.
 
-## Evaluation
-A: General-purpose LLM receiving only the question.
-B: Document-aware LLM receiving the relevant course document in the session.
-C: LearnAI with persistent course context, course materials, and curated local resources.
-Measure course relevance, factual correctness, groundedness, citation accuracy, resource relevance, and repeated-context effort. Keep model settings comparable and document experimental differences.
+## Working materials
 
-## Scope
-Moodle and email integration are stretch goals. Nationwide resource coverage and social matching are future ideas.
+Use GitHub for reviewed Markdown notes, decisions, citations, public-safe editable diagrams, and prototype source. Keep working PowerPoints, paper PDFs, unreviewed drafts, and private feedback in the local `LearnAI-Research` folder. Record a public-safe outline or source link in the research index when it helps a reader understand a decision.
 
-## Current milestone
-First seminar: Monday, 19 October 2026. Confirm presentation duration, required sections, submission format, and assessment criteria with the coordinator.
+## Prototype
 
-## Status
-Planning starter only; no application implemented yet. Literature and claims must be independently checked before citation.
+The [MLP Lab branch](https://github.com/Seiframy/LearnAI/tree/dev/mlp-connected-activities) contains an educational demo with a network inspector and a forward-pass prediction activity. The PDF-to-game pipeline is described in the newer design materials. See [Project status](PROJECT_STATUS.md) for the evidence and implementation gaps.
