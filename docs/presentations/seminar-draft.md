@@ -17,4 +17,4 @@ The later working deck adds screenshots of the earlier course-context interface 
 
 The design draws on the template and browser verification ideas in [OpenGame, Figure 2 and §3](https://arxiv.org/html/2604.18394v2#S3). [Lewis et al.](https://arxiv.org/abs/2005.11401) provide background on grounding generation in retrieved text. The demo plan uses page-tagged extraction and evidence checks. Its learning outcomes would require a separate study.
 
-[Editable methodology slide](learnai-methodology.pptx) · [Literature notes](../research/papers/README.md)
+[Editable methodology slide](../../methodology-drafts/LearnAI%20Methodology.pptx) · [Literature notes](../research/papers/README.md)

@@ -15,6 +15,7 @@ The course-context assistant is archived as historical context. Its research que
 | Course-context assistant | [Original project brief](docs/history/course-context-assistant.md) | Historical proposal. It asked whether persistent course context and curated Egyptian academic resources improve the relevance of study assistance. Its evaluation compared general, document-aware, and course-context assistance. |
 | Educational game generation | [Editable methodology and system diagrams](docs/methodology/README.md) and [seminar draft](docs/presentations/seminar-draft.md) | Official project direction. The documented methodology proposes page-tagged text extraction, a validated mission specification, and a reusable Three.js browser level. Story, challenges, and feedback can vary by lesson. |
 | MLP Lab | [Public prototype branch](https://github.com/Seiframy/LearnAI/tree/dev/mlp-connected-activities) at `5eaf66d` | Existing React and TypeScript prototype with a fixed neural network, an inspector, and a forward-pass challenge. Its branch README documents a deterministic calculation module. The prototype has no PDF intake or AI generation. |
+| 3D Neural Workshop | [Public workshop repository](https://github.com/Seiframy/learnai-mlp/tree/0d81764b4e0299741dbc76f55534b718775bcc1a) at `0d81764` | Existing hand-authored 3D exhibit using the prototype's network math. The workshop README describes its scope and run instructions. |
 
 ## Current priority
 
@@ -24,7 +25,7 @@ For future evaluation, record lesson grounding, schema validity, and playability
 
 ## Implementation and evidence
 
-- GitHub's default branch at `754cccd` contains planning documentation. The MLP Lab is the implementation verified in the inspected GitHub branches.
+- [PR #1](https://github.com/Seiframy/LearnAI/pull/1) merged the planning and methodology record into `main` at `301d8ca`. See the [import record](docs/research/provenance.md) for the mapped research assets and the [OpenGame paper](papers/README.md).
 - The game design deck and diagrams establish design intent. An end-to-end PDF-to-game implementation and its evaluation results remain unverified in the inspected repository and research folder.
 - A proposed demo milestone is to use the same level with missions generated from two approved lesson PDFs. Record lesson grounding, validation results, and whether each mission can be played through. Track any learning study separately.
-- The local `graphify-learnai` MCP server points to the MLP Lab code graph. The previous check reproduced 79 nodes and 124 edges for that checkout. See the [Graphify workflow](docs/research/README.md#graphify).
+- The local `graphify-learnai` MCP server points to the MLP Lab code graph. A fresh code-only extraction of `5eaf66d` reproduced 79 nodes and 124 edges. A live MCP lookup for `forward` returned two callers, both confirmed in source. See the [Graphify guide](graphify-guide/README.md).

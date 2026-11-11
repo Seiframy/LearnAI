@@ -10,4 +10,9 @@ Read [README.md](README.md) and [PROJECT_STATUS.md](PROJECT_STATUS.md) before wo
 - Verify claims and citations against primary sources. AI-simulated reviews cannot establish human endorsement. Require evidence for claims about learning differences, novelty, accuracy guarantees, or grade improvement.
 - Preserve private student uploads. Exclude credentials, tokens, identifiable student data, private feedback, and raw chat transcripts from the public repo. Check permission before reusing institutional materials or third-party assets. Review deck notes and editable diagram contents as well as visible slides before sharing.
 - Preserve local originals. Before committing or pushing an import, show the proposed changes and flag sensitive material, reuse rights, and large binaries for review.
-- Keep `graphify-learnai` scoped to the prototype source checkout. Use its existing code-only workflow and separate local output. Check the graph's source branch before using it to answer a question about newer code.
+## Codex workflows
+
+The skills are installed in this checkout under `.agents/skills/`. Open a Codex chat in the LearnAI checkout with these files and type `$` to select the skill. The [Codex skill documentation](https://developers.openai.com/codex/skills) describes discovery and invocation.
+
+- [`$learnai-graphify`](.agents/skills/learnai-graphify/SKILL.md) traces relationships in the MLP Lab code. The [setup guide](graphify-guide/README.md) covers the local `graphify-learnai` server and code-only rebuilds.
+- [`$learnai-session-sync`](.agents/skills/learnai-session-sync/SKILL.md) updates the project record at a checkpoint or after a LearnAI chat. Supply a summary or accessible conversation reference if the work happened in another chat. Review the proposed changes and explicitly authorize commit or push before either action.

@@ -15,12 +15,28 @@ secrets*
 /LearnAI-Research/
 graphify-out/
 
-# Local working folders at the checkout root
-/diagrams/
-/graphify-guide/
+# Local working folders and adjacent private material
 /graphify-learnai/
-/methodology-drafts/
-/papers/
 /planning/
 /presentations/
 /professor-feedback/
+/Amr_pictuers/
+/pappers/
+/first draft presentation/
+/first draft website/
+/LearnAI.pptx
+/*Proposals Feedback.pdf
+/Screenshot*.png
+
+# Mirrored folders allow reviewed files by name
+/diagrams/*
+!/diagrams/LearnAI Methodology.drawio
+!/diagrams/LearnAI-diagrams.drawio
+/graphify-guide/*
+!/graphify-guide/README.md
+/methodology-drafts/*
+!/methodology-drafts/LearnAI Methodology Preview.png
+!/methodology-drafts/LearnAI Methodology.pptx
+/papers/*
+!/papers/README.md
+!/papers/open agentic coding.pdf
