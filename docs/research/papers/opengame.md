@@ -1,6 +1,6 @@
 # OpenGame
 
-Jiang, Y., Hu, J., Xiao, Q., Zheng, Y., Ma, R., Feng, K., Han, J., Peng, T., Fan, K., Zhang, M., and Yue, X. (2026). *OpenGame: Open Agentic Coding for Games*. arXiv:2604.18394v2. The local paper copy identifies itself as v2 and lists the CC BY 4.0 license. [Preprint](https://arxiv.org/abs/2604.18394v2) · [License](https://creativecommons.org/licenses/by/4.0/) · [Authors' repository](https://github.com/leigest519/OpenGame)
+Jiang, Y., Hu, J., Xiao, Q., Zheng, Y., Ma, R., Feng, K., Han, J., Peng, T., Fan, K., Zhang, M., and Yue, X. (2026). *OpenGame: Open Agentic Coding for Games*. arXiv:2604.18394v2. The [PDF in this repository](../../../papers/open%20agentic%20coding.pdf) is an unchanged copy of the versioned arXiv download, which lists the CC BY 4.0 license. [Preprint](https://arxiv.org/abs/2604.18394v2) · [License](https://creativecommons.org/licenses/by/4.0/) · [Authors' repository](https://github.com/leigest519/OpenGame)
 
 ## What informed the LearnAI draft
 
