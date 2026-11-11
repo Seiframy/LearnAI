@@ -13,12 +13,12 @@ The course-context assistant is archived as historical context. Its research que
 | Work | Evidence | Status |
 | --- | --- | --- |
 | Course-context assistant | [Original project brief](docs/history/course-context-assistant.md) | Historical proposal. It asked whether persistent course context and curated Egyptian academic resources improve the relevance of study assistance. Its evaluation compared general, document-aware, and course-context assistance. |
-| Educational game generation | Local LearnAI deck and editable architecture, PDF-to-game pipeline, and activity workflow diagrams | Official project direction. The documented methodology proposes page-tagged text extraction, a validated mission specification, and a reusable Three.js browser level. Story, challenges, and feedback can vary by lesson. |
+| Educational game generation | [Editable methodology and system diagrams](docs/methodology/README.md) and [seminar draft](docs/presentations/seminar-draft.md) | Official project direction. The documented methodology proposes page-tagged text extraction, a validated mission specification, and a reusable Three.js browser level. Story, challenges, and feedback can vary by lesson. |
 | MLP Lab | [Public prototype branch](https://github.com/Seiframy/LearnAI/tree/dev/mlp-connected-activities) at `5eaf66d` | Existing React and TypeScript prototype with a fixed neural network, an inspector, and a forward-pass challenge. Its branch README documents a deterministic calculation module. The prototype has no PDF intake or AI generation. |
 
 ## Current priority
 
-Organize the research, preserve the editable methodology diagrams, and link reviewed sources and decisions through the [research workflow](docs/research/README.md). Full game-generator implementation is deferred.
+The [research index](docs/research/README.md) links the imported methodology sources, seminar outline, literature notes, and provenance. The first proposed implementation milestone is a hand-written mission in one room with one console and one exit. Full game-generator implementation is deferred.
 
 For future evaluation, record lesson grounding, schema validity, and playability as separate checks. Measuring learning outcomes requires a study design and evidence from learners.
 

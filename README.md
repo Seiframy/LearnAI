@@ -15,13 +15,14 @@ The current priority is organizing the research and preserving the methodology. 
 ## Start here
 
 - [Project status](PROJECT_STATUS.md) records the confirmed scope, implementation status, and research priorities.
-- [Research workflow](docs/research/README.md) explains how to record sources, presentation claims, and experiment notes.
+- [Research index](docs/research/README.md) links the literature notes, diagrams, drafts, and research workflow.
+- [PDF-to-game methodology](docs/methodology/README.md) includes the editable design diagrams and [seminar draft](docs/presentations/seminar-draft.md).
 - [Conversation summaries](docs/research/conversations/README.md) records selected takeaways from material the contributor could actually review.
 - [Agent instructions](AGENTS.md) gives Codex the starting files and review rules.
 
 ## Working materials
 
-Use GitHub for reviewed Markdown notes, decisions, citations, public-safe editable diagrams, and prototype source. Keep working PowerPoints, paper PDFs, unreviewed drafts, and private feedback in the local `LearnAI-Research` folder. Record a public-safe outline or source link in the research index when it helps a reader understand a decision.
+Use GitHub for reviewed Markdown notes, decisions, citations, public-safe editable diagrams, and prototype source. The [import record](docs/research/provenance.md) identifies the original research materials and the reviewed files published here. Keep full working decks, paper PDFs, private feedback, and generated Graphify outputs in the local research folder.
 
 ## Prototype
 

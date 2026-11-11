@@ -1,6 +1,6 @@
 # Agent instructions
 
-Read [README.md](README.md) and [PROJECT_STATUS.md](PROJECT_STATUS.md) before working. Follow the [research workflow](docs/research/README.md) for citations and the [conversation guide](docs/research/conversations/README.md) for chat-derived material. Check the active Git branch and working tree before edits. Keep changes bounded and describe how you checked them.
+Read [README.md](README.md) and [PROJECT_STATUS.md](PROJECT_STATUS.md) before working. Use the [research index](docs/research/README.md) for citations, the [import record](docs/research/provenance.md) for asset provenance, and the [conversation guide](docs/research/conversations/README.md) for chat-derived material. Check the active Git branch and working tree before edits. Keep changes bounded and describe how you checked them.
 
 - Treat AI-powered PDF-to-educational-game generation as the official LearnAI scope. Use the [project status](PROJECT_STATUS.md) to distinguish the confirmed vision, the proposed methodology, and verified implementation.
 - Use the [course-context assistant brief](docs/history/course-context-assistant.md) as historical context. Its research question, baseline, and optional integrations belong to that earlier proposal.

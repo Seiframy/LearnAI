@@ -1,6 +1,14 @@
-# LearnAI research workflow
+# LearnAI research
 
 Use this folder to record research findings, presentation claims, and decisions that may shape the prototype. Start with the [project status](../../PROJECT_STATUS.md), the [historical seminar checklist](../seminar-checklist.md), and the [research note template](note-template.md).
+
+## Research materials
+
+- [Editable methodology and system diagrams](../methodology/README.md)
+- [Seminar presentation draft and editable methodology slide](../presentations/seminar-draft.md)
+- [Literature notes](papers/README.md), including the [OpenGame note](papers/opengame.md)
+- [Research import provenance](provenance.md)
+- [Curated conversation summaries](conversations/README.md)
 
 ## From a source to a project decision
 
@@ -17,12 +25,12 @@ For example, a paper about game playability checks could inform a LearnAI experi
 | --- | --- | --- |
 | Papers | `LearnAI-Research/papers/` | Citation and an original summary in `docs/research/papers/` |
 | Research summaries and decisions | Private working notes as needed | Reviewed Markdown in `docs/research/` and [curated conversation summaries](conversations/README.md) |
-| PowerPoints and PDF exports | `LearnAI-Research/presentations/` or `methodology-drafts/` | Slide outlines and claim/source notes in `docs/presentations/` |
+| PowerPoints and PDF exports | `LearnAI-Research/presentations/` or `methodology-drafts/` | Reviewed presentation sources and outlines in `docs/presentations/` |
 | Editable methodology diagrams | `LearnAI-Research/diagrams/` | Reviewed `.drawio` source in `docs/methodology/` |
 | Planning drafts and feedback | `LearnAI-Research/planning/`, `methodology-drafts/`, and `professor-feedback/` | Public-safe decisions or draft Markdown in `docs/research/drafts/` |
 | Prototypes | A dedicated source checkout | Source and run instructions on the relevant prototype branch |
 
-Add a folder when its first reviewed item is ready. Review contents, embedded assets, notes, metadata, and redistribution rights before copying source material into the public repository. [OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394) is a starting citation for the paper in the local collection.
+Add a folder when its first reviewed item is ready. Review contents, embedded assets, notes, metadata, and redistribution rights before copying source material into the public repository.
 
 ## Graphify
 
