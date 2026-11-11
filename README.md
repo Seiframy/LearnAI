@@ -1,10 +1,20 @@
 # LearnAI
 
-LearnAI is a graduation-project research workspace. The newer design explores turning lesson PDFs into playable educational missions in a shared 3D browser level. The earlier proposal studied persistent course context and Egyptian academic resource retrieval for engineering students. The [historical proposal](docs/history/course-context-assistant.md) preserves the original research question, scope, and evaluation plan.
+LearnAI is an AI-powered PDF-to-educational-game generator. The goal is to help students learn the content of an educational PDF by playing a game generated from it.
+
+## Intended workflow
+
+1. A student uploads educational material as a PDF.
+2. AI extracts the content and identifies the concepts and learning objectives.
+3. The system turns the learning content into game logic, mechanics, and narrative where appropriate.
+4. The system generates a playable, interactive educational game.
+5. The student learns by interacting with the game.
+
+The current priority is organizing the research and preserving the methodology. The [historical course-context assistant proposal](docs/history/course-context-assistant.md) preserves the earlier research question, scope, and evaluation plan.
 
 ## Start here
 
-- [Project status](PROJECT_STATUS.md) records what exists, what the newer design proposes, and what still needs a decision.
+- [Project status](PROJECT_STATUS.md) records the confirmed scope, implementation status, and research priorities.
 - [Research workflow](docs/research/README.md) explains how to record sources, presentation claims, and experiment notes.
 - [Conversation summaries](docs/research/conversations/README.md) records selected takeaways from material the contributor could actually review.
 - [Agent instructions](AGENTS.md) gives Codex the starting files and review rules.
@@ -15,4 +25,4 @@ Use GitHub for reviewed Markdown notes, decisions, citations, public-safe editab
 
 ## Prototype
 
-The [MLP Lab branch](https://github.com/Seiframy/LearnAI/tree/dev/mlp-connected-activities) contains an educational demo with a network inspector and a forward-pass prediction activity. The PDF-to-game pipeline is described in the newer design materials. See [Project status](PROJECT_STATUS.md) for the evidence and implementation gaps.
+The [MLP Lab branch](https://github.com/Seiframy/LearnAI/tree/dev/mlp-connected-activities) contains an existing educational prototype with a network inspector and a forward-pass prediction activity. See [Project status](PROJECT_STATUS.md) for the separate PDF-to-game implementation status.
