@@ -10,3 +10,7 @@ private_uploads/
 data/private/
 credentials*
 secrets*
+
+# Local research assets and generated graphs
+/LearnAI-Research/
+graphify-out/
