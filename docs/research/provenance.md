@@ -17,7 +17,7 @@ Reviewed 12 November 2026. The source files came from the team's local LearnAI r
 
 The full PowerPoints are 7.50 and 8.21 MiB. They contain institutional branding and embedded 3D models whose redistribution permissions were unverified. The slide outline retains the design and test plan. The full deck binaries, their PDF exports, and duplicates stay with the local drafts.
 
-Private faculty feedback and screenshots, sample uploads, and the raw website walkthrough stay local. The website illustrates the earlier course-context proposal. The public record for that proposal is the [historical brief](../history/course-context-assistant.md).
+The project owner approved public display of the three existing [faculty feedback images](../../professor_feedback/). Keep other private feedback and screenshots, sample uploads, and the raw website walkthrough local. The website illustrates the earlier course-context proposal. The public record for that proposal is the [historical brief](../history/course-context-assistant.md).
 
 The rest of the paper collection stays local. The MLP Lab source is available on its [LearnAI branch](https://github.com/Seiframy/LearnAI/tree/dev/mlp-connected-activities). The [3D Neural Workshop](https://github.com/Seiframy/learnai-mlp) remains in its separate repository.
 

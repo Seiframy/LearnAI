@@ -8,7 +8,7 @@ Read [README.md](README.md) and [PROJECT_STATUS.md](PROJECT_STATUS.md) before wo
 - Prioritize organizing the research and preserving the editable methodology. Start full game-generator implementation only when the project owner requests it.
 - For game evaluation, record source fidelity, schema validity, playability, and measured learning outcomes separately. Record the method and result when a test runs.
 - Verify claims and citations against primary sources. AI-simulated reviews cannot establish human endorsement. Require evidence for claims about learning differences, novelty, accuracy guarantees, or grade improvement.
-- Preserve private student uploads. Exclude credentials, tokens, identifiable student data, private feedback, and raw chat transcripts from the public repo. Check permission before reusing institutional materials or third-party assets. Review deck notes and editable diagram contents as well as visible slides before sharing.
+- Preserve private student uploads. Exclude credentials, tokens, identifiable student data, and raw chat transcripts from the public repo. The project owner approved public display of the existing three feedback images in `professor_feedback/`. Keep other private feedback local. Check permission before reusing institutional materials or third-party assets. Review deck notes and editable diagram contents as well as visible slides before sharing.
 - Preserve local originals. Before committing or pushing an import, show the proposed changes and flag sensitive material, reuse rights, and large binaries for review.
 ## Codex workflows
 

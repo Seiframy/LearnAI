@@ -24,7 +24,7 @@ The current priority is organizing the research and preserving the methodology. 
 
 ## Working materials
 
-Use GitHub for reviewed Markdown notes, decisions, citations, public-safe editable diagrams, and prototype source. The [import record](docs/research/provenance.md) identifies the original research materials and the reviewed files published here. The repo mirrors the PC folders [`diagrams/`](diagrams/), [`methodology-drafts/`](methodology-drafts/), [`papers/`](papers/README.md), and [`graphify-guide/`](graphify-guide/README.md) for reviewed material. Keep full working decks, the rest of the paper collection, private feedback, and generated Graphify outputs in the local research folder.
+Use GitHub for reviewed Markdown notes, decisions, citations, public-safe editable diagrams, and prototype source. The [import record](docs/research/provenance.md) identifies the original research materials and the reviewed files published here. The repo mirrors the PC folders [`diagrams/`](diagrams/), [`methodology-drafts/`](methodology-drafts/), [`papers/`](papers/README.md), and [`graphify-guide/`](graphify-guide/README.md) for reviewed material. The project owner approved public display of the three existing [faculty feedback images](professor_feedback/). Keep full working decks, the rest of the paper collection, other private feedback, and generated Graphify outputs in the local research folder.
 
 ## Prototype
 

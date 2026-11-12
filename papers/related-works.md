@@ -18,10 +18,10 @@ Connect the ideas to the proposed flow of PDF, page-linked concepts, validated m
 
 - OpenGame abstract and introduction (PDF pp. 1–2) identify the template/debug workflow and 150-prompt evaluation. It is a preprint. See the existing research note for the detailed methodology references. [Versioned source](https://arxiv.org/abs/2604.18394v2) · [Existing note](../docs/research/papers/opengame.md)
 - RPGAgent abstract and introduction (PDF pp. 1–2) describe the four agent roles and 18-participant study. The evidence concerns RPG prototyping and designer experience. [Primary source](https://doi.org/10.1145/3772318.3790326)
-- Dagne is identified as a Stanford CS224R 2025 final report on PDF p. 2 and the official course project index. PDF p. 14 discusses feasibility, changes to user intent and genre dependence. The reported percentage inconsistency occurs between the abstract and conclusion. [Official report](https://cs224r.stanford.edu/projects/pdfs/cs224r_final_report_2025.pdf) · [Course index](https://cs224r.stanford.edu/spring_2025/projects/cs224r_final_projects.html)
+- Dagne is identified as a Stanford CS224R 2025 final report on PDF p. 2 and the official course project index. PDF p. 14 discusses feasibility, changes to user intent and genre dependence. The reported percentage inconsistency occurs between the abstract and conclusion. [Official report](https://cs224r.stanford.edu/spring_2025/projects/pdfs/cs224r_final_report_2025.pdf) · [Course index](https://cs224r.stanford.edu/spring_2025/projects/cs224r_final_projects.html)
 
 ## References
 
 1. Jiang, Y., et al. (2026). *OpenGame: Open Agentic Coding for Games*. arXiv:2604.18394v2. https://arxiv.org/abs/2604.18394v2
 2. Zhang, S., Xiao, Y., Ma, R., and Leung, C. (2026). *RPGAgent: Driving Coherent Story-to-Play Generation with an LLM-Based Multi-Agent System*. CHI ’26, 22 pages. https://doi.org/10.1145/3772318.3790326
-3. Dagne, A. (2025). *RL-Based Game Generation with PRewrite: Iterative Prompt Optimization for AI-Assisted Game Development*. Stanford CS224R final report. https://cs224r.stanford.edu/projects/pdfs/cs224r_final_report_2025.pdf
+3. Dagne, A. (2025). *RL-Based Game Generation with PRewrite: Iterative Prompt Optimization for AI-Assisted Game Development*. Stanford CS224R final report. https://cs224r.stanford.edu/spring_2025/projects/pdfs/cs224r_final_report_2025.pdf
