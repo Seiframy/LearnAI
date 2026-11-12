@@ -16,15 +16,15 @@ The current priority is organizing the research and preserving the methodology. 
 
 - [Project status](PROJECT_STATUS.md) records the confirmed scope, implementation status, and research priorities.
 - [Research index](docs/research/README.md) links the literature notes, diagrams, drafts, and research workflow.
-- [PDF-to-game methodology](docs/methodology/README.md) includes the editable design diagrams and [seminar draft](docs/presentations/seminar-draft.md).
+- [PDF-to-game design diagrams](diagrams/) and the [editable methodology slide](presentations/methodology-drafts/LearnAI%20Methodology.pptx) describe the proposed system.
+- [Seminar draft](presentations/seminar-draft.md) and [related-works slides](presentations/relatedworks-draft/LearnAI%20Related%20Works.pptx) cover the first seminar.
 - [Conversation summaries](docs/research/conversations/README.md) records selected takeaways from material the contributor could actually review.
 - [Agent instructions and Codex workflows](AGENTS.md) cover code navigation and end-of-chat checkpoints.
-
 - [First-seminar related works](papers/README.md) collects the three sources and their [comparison](papers/related-works.md).
 
 ## Working materials
 
-Use GitHub for reviewed Markdown notes, decisions, citations, public-safe editable diagrams, and prototype source. The [import record](docs/research/provenance.md) identifies the original research materials and the reviewed files published here. The repo mirrors the PC folders [`diagrams/`](diagrams/), [`methodology-drafts/`](methodology-drafts/), [`papers/`](papers/README.md), and [`graphify-guide/`](graphify-guide/README.md) for reviewed material. The project owner approved public display of the three existing [faculty feedback images](professor_feedback/). Keep full working decks, the rest of the paper collection, other private feedback, and generated Graphify outputs in the local research folder.
+The [import record](docs/research/provenance.md) records the sources of the research materials. The repository contains [design diagrams](diagrams/), [presentation drafts](presentations/), [seminar papers](papers/README.md), and the [Graphify setup guide](graphify-guide/README.md). The project owner approved public display of the three existing [faculty feedback images](professor_feedback/). Keep other private feedback and generated Graphify outputs local.
 
 ## Prototype
 

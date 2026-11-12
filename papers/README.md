@@ -12,10 +12,10 @@ See the [OpenGame research note](../docs/research/papers/opengame.md) for its re
 
 ## Prompt optimization for game generation
 
-Abel Dagne (2025), *RL-Based Game Generation with PRewrite: Iterative Prompt Optimization for AI-Assisted Game Development*, Stanford CS224R final report. This course report is the work supplied locally as `Interactive prompt optimization.pdf`. Its redistribution license was not found in the supplied PDF, so this index links to Stanford’s official copy. [Official report](https://cs224r.stanford.edu/spring_2025/projects/pdfs/cs224r_final_report_2025.pdf) · [Course project index](https://cs224r.stanford.edu/spring_2025/projects/cs224r_final_projects.html)
+Abel Dagne (2025), *RL-Based Game Generation with PRewrite: Iterative Prompt Optimization for AI-Assisted Game Development*, Stanford CS224R final report. [Repository copy](Interactive%20prompt%20optimization.pdf) · [Official report](https://cs224r.stanford.edu/spring_2025/projects/pdfs/cs224r_final_report_2025.pdf) · [Course project index](https://cs224r.stanford.edu/spring_2025/projects/cs224r_final_projects.html)
 
 ## Seminar comparison
 
 The [brief related-works comparison](related-works.md) covers all three works, their evidence, limitations and relevance to LearnAI. It recommends one comparison slide followed by a visual connection to the proposed LearnAI methodology.
 
-[Editable related-works slides](../docs/presentations/LearnAI%20Related%20Works.pptx) contain the comparison table and the visual connection to LearnAI’s proposed pipeline. Sources and presentation guidance are included in speaker notes.
+[Editable related-works slides](../presentations/relatedworks-draft/LearnAI%20Related%20Works.pptx) contain the comparison table and the visual connection to LearnAI’s proposed pipeline. Sources and presentation guidance are included in speaker notes.

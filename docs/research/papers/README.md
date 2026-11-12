@@ -1,5 +1,7 @@
 # Literature notes
 
+The [seminar paper index](../../../papers/README.md) links the three PDFs used in the first seminar and the [comparison](../../../papers/related-works.md).
+
 | Source | Relevance to LearnAI |
 | --- | --- |
 | [OpenGame](opengame.md) | Main methodology reference. Reusable game scaffolding and browser checks inform the first PDF-to-game demo. |
@@ -8,4 +10,4 @@
 | [Lewis et al., Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, 2020](https://arxiv.org/abs/2005.11401) | Background reading cited in the seminar deck. It studies generation conditioned on retrieved passages. LearnAI's first design uses page-tagged lesson text and explicit source checks. |
 | [Ma et al., CreativeGame, 2026](https://arxiv.org/abs/2604.19926) | Reading backlog. Its abstract describes mechanic planning and runtime validation for iterative HTML5 game generation. |
 
-The local reading backlog also includes work on a board-game DSL, collision-based enemy generation, reward dynamics, and prompt refinement. Those readings remain candidates for review. The [seminar outline](../../presentations/seminar-draft.md) records the decisions already reflected in the project drafts.
+The local reading backlog also includes work on a board-game DSL, collision-based enemy generation, and reward dynamics. The [seminar outline](../../../presentations/seminar-draft.md) records the decisions reflected in the project drafts.

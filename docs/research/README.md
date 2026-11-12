@@ -4,8 +4,9 @@ Use this folder to record research findings, presentation claims, and decisions 
 
 ## Research materials
 
-- [Editable methodology and system diagrams](../methodology/README.md)
-- [Seminar presentation draft and editable methodology slide](../presentations/seminar-draft.md)
+- [Editable methodology and system diagrams](../../diagrams/)
+- [Seminar outline](../../presentations/seminar-draft.md) and [editable methodology slide](../../presentations/methodology-drafts/LearnAI%20Methodology.pptx)
+- [First-seminar papers and comparison](../../papers/README.md)
 - [Literature notes](papers/README.md), including the [OpenGame note](papers/opengame.md)
 - [Research import provenance](provenance.md)
 - [Curated conversation summaries](conversations/README.md)
@@ -23,11 +24,11 @@ For example, a paper about game playability checks could inform a LearnAI experi
 
 | Material | Local working copy | GitHub, after review |
 | --- | --- | --- |
-| Papers | `LearnAI-Research/papers/` | Citation and summary in `docs/research/papers/`. The licensed [OpenGame PDF](../../papers/README.md) is in `papers/`. |
+| Papers | `LearnAI-Research/papers/` | The [seminar paper index](../../papers/README.md) links the three PDFs and their comparison. [Literature notes](papers/README.md) include additional reading. |
 | Research summaries and decisions | Private working notes as needed | Reviewed Markdown in `docs/research/` and [curated conversation summaries](conversations/README.md) |
-| PowerPoints and PDF exports | `LearnAI-Research/presentations/` or `methodology-drafts/` | Editable methodology slide in `methodology-drafts/`. Seminar outline in `docs/presentations/`. |
-| Editable methodology diagrams | `LearnAI-Research/diagrams/` | Reviewed `.drawio` sources in `diagrams/`. Design notes in `docs/methodology/`. |
-| Planning drafts and feedback | `LearnAI-Research/planning/`, `methodology-drafts/`, and `professor-feedback/` | Public-safe decisions or draft Markdown in `docs/research/drafts/` |
+| PowerPoints and PDF exports | `LearnAI-Research/presentations/` or `methodology-drafts/` | [Presentation drafts](../../presentations/) include the seminar outline, methodology slide, and related-works deck. |
+| Editable methodology diagrams | `LearnAI-Research/diagrams/` | Editable [Draw.io sources](../../diagrams/). |
+| Planning drafts and feedback | `LearnAI-Research/planning/` and `professor-feedback/` | The project owner approved three [faculty feedback images](../../professor_feedback/) for public display. |
 | Prototypes | A dedicated source checkout | Source and run instructions on the relevant prototype branch |
 
 Add a folder when its first reviewed item is ready. Review contents, embedded assets, notes, metadata, and redistribution rights before copying source material into the public repository.
