@@ -40,3 +40,4 @@ graphify-out/
 /papers/*
 !/papers/README.md
 !/papers/open agentic coding.pdf
+~$*.pptx
