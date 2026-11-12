@@ -20,6 +20,8 @@ The current priority is organizing the research and preserving the methodology. 
 - [Conversation summaries](docs/research/conversations/README.md) records selected takeaways from material the contributor could actually review.
 - [Agent instructions and Codex workflows](AGENTS.md) cover code navigation and end-of-chat checkpoints.
 
+- [First-seminar related works](papers/README.md) collects the three sources and their [comparison](papers/related-works.md).
+
 ## Working materials
 
 Use GitHub for reviewed Markdown notes, decisions, citations, public-safe editable diagrams, and prototype source. The [import record](docs/research/provenance.md) identifies the original research materials and the reviewed files published here. The repo mirrors the PC folders [`diagrams/`](diagrams/), [`methodology-drafts/`](methodology-drafts/), [`papers/`](papers/README.md), and [`graphify-guide/`](graphify-guide/README.md) for reviewed material. Keep full working decks, the rest of the paper collection, private feedback, and generated Graphify outputs in the local research folder.

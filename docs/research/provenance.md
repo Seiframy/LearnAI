@@ -24,3 +24,9 @@ The rest of the paper collection stays local. The MLP Lab source is available on
 ## Graphify
 
 The local Graphify server reported 79 nodes and 124 edges for the MLP Lab code graph during this import. Use the [code-only build commands](../../graphify-guide/README.md#rebuild-the-mlp-graph) to regenerate the report and query data for a specific source revision. A query result is a starting point for inspecting the source. Build products, HTML, JSON, caches, and machine-specific guide settings stay in the local graph folders.
+
+## First-seminar related works, 12 November 2026
+
+`project_out/pappers/Driving Coherent Story-to-Play.pdf` was copied unchanged into [papers](../../papers/Driving%20Coherent%20Story-to-Play.pdf). It is the 22-page RPGAgent paper by Zhang, Xiao, Ma and Leung, CHI 2026, DOI 10.1145/3772318.3790326. Page 1 explicitly grants CC BY 4.0. The PDF is approximately 9 MiB and contains the authors’ published contact details and paper figures.
+
+`project_out/pappers/unstudied/Interactive prompt optimization.pdf` was reviewed locally to prepare the [comparison](../../papers/related-works.md). It is Dagne’s 2025 Stanford CS224R final report. No redistribution license was found in the PDF. The [papers index](../../papers/README.md) provides attribution and a link to the official Stanford copy. The local original is preserved.
