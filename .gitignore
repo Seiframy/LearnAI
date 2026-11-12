@@ -11,22 +11,7 @@ data/private/
 credentials*
 secrets*
 
-# Local research assets and generated graphs
-/LearnAI-Research/
-graphify-out/
 
-# Local working folders and adjacent private material
-/graphify-learnai/
-/planning/
-/presentations/
-/professor-feedback/
-/Amr_pictuers/
-/pappers/
-/first draft presentation/
-/first draft website/
-/LearnAI.pptx
-/*Proposals Feedback.pdf
-/Screenshot*.png
 
 # Mirrored folders allow reviewed files by name
 /diagrams/*
