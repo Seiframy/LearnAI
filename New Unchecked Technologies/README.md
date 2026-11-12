@@ -6,7 +6,7 @@ Open a Codex chat in the LearnAI checkout and send `$learnai-repo-review https:/
 
 ## Added Value
 
-_No reviews yet._
+- [Three.js](Added%20Value/mrdoob--three.js.md)
 
 ## Neutral
 
