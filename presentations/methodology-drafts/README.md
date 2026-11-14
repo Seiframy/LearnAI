@@ -1,18 +1,17 @@
-# Methodology presentation
+# LearnAI methodology presentation
 
-The revised two-slide [editable deck](LearnAI%20Methodology.pptx) updates the original diagram in place. The [original backup](LearnAI%20Methodology%20-%20Original%20Backup.pptx) preserves the preceding version.
+[Editable two-slide PowerPoint](LearnAI%20Methodology.pptx) · [Pipeline preview](Methodology-Revised-1.png) · [Validation and evaluation preview](Methodology-Revised-2.png)
 
-- A identifies the instructor laboratory PDF and preserves its source.
-- B extracts components, wiring, procedures, expected behavior, objectives and page references into an experiment definition.
-- C supplies reusable equipment, controls, states and actions.
-- D composes an interactive browser laboratory with independently testable scientific logic.
-- E checks source and functional fidelity, supports Stop/Continue, records corrections and repeats checks after rebuilding.
-- F compares validation OFF and ON within the same generator and separately assesses system performance and learning.
+## Placement in Seminar 1
 
-Slide 2 expands validation, comparison controls and optional future learning progression. Both slides describe proposed capabilities. The original extraction, grounding, interaction, assembly, feedback and evaluation concepts were reviewed and retained or reassigned to the appropriate updated block.
+1. Place **LearnAI Methodology** immediately after the approved Problem Definition section. Use it to introduce the proposed A–F pipeline and explain how a flagged issue returns to the experiment definition for correction.
+2. Place **Validation, research evaluation & staged progression** immediately after the pipeline and before the implementation plan. Use it to explain the Stop/Continue decision, the validation OFF/ON comparison, and the optional later experiments.
 
-PowerPoint opened and rendered both slides successfully. The primary slide retains the original editable shapes, icons, containers and connectors. The supplementary slide uses native editable shapes and text. Previews were visually inspected and long labels adjusted.
+Import both slides with **Keep Source Formatting**. The source deck is 16:9. Titles, labels, icons, panels and arrows are editable in PowerPoint.
 
-[Primary preview](Methodology-Revised-1.png) · [Supplementary preview](Methodology-Revised-2.png)
+Digital electronics is the initial research domain. NAND is the illustrative first test within a broader PDF-to-educational-game product vision. Systems A and B are configurations of the same generator. The comparison and optional progression describe planned work.
 
-Issue #6 received no updates in this delivery.
+## Previous versions
+
+- [Previous two-slide methodology draft](LearnAI%20Methodology%20-%20Previous%20Draft.pptx)
+- [Original editable methodology](LearnAI%20Methodology%20-%20Original%20Backup.pptx)
