@@ -4,6 +4,7 @@ Use this folder to record research findings, presentation claims, and decisions 
 
 ## Research materials
 
+- [Seminar 1 Problem Definition](problem-definition/README.md)
 - [Editable methodology and system diagrams](../../diagrams/)
 - [Seminar outline](../../presentations/seminar-draft.md) and [editable methodology slide](../../presentations/methodology-drafts/LearnAI%20Methodology.pptx)
 - [First-seminar papers and comparison](../../papers/README.md)
